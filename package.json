@@ -1,0 +1,27 @@
+{
+  "name": "koa-html-template",
+  "version": "1.0.0",
+  "description": "This is a koa-based templating engine that can render html files for data rendering.",
+  "main": "index.js",
+  "dependencies": {
+    "root-path-plugin": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shataniya/koa-html-template.git"
+  },
+  "keywords": [
+    "koa-html-template",
+    "koa-html"
+  ],
+  "author": "sataniya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shataniya/koa-html-template/issues"
+  },
+  "homepage": "https://github.com/shataniya/koa-html-template#readme"
+}
